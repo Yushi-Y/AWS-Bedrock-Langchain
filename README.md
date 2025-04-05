@@ -9,7 +9,7 @@ The projects are based on tutorials by [Krish Naik](https://www.youtube.com/@kri
 - Built a serverless blog generation application using AWS Bedrock (LLaMA-2-13B) for LLM-powered text generation and AWS Lambda for backend orchestration. The system uses Amazon API Gateway to expose a public REST API endpoint that accepts blog generation requests from Postman. When a user submits a query, API Gateway triggers a Lambda function, which handles the request, queries the foundation model via Amazon Bedrock, and stores the generated blog context to Amazon S3.
 
 <p align="center">
-  <img src="path/to/blog_generation_workflow.png" alt="Blog Generation Architecture" width="600"/>
+  <img src="blog_generation_workflow.png" alt="Blog generation workflow" width="600"/>
 </p>
 
 ---
