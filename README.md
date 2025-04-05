@@ -22,6 +22,8 @@ The projects are based on tutorials by [Krish Naik](https://www.youtube.com/@kri
 </p>
 
 
+---
+
 ### 🤖 LLM Agentic Workflow
 - Built an LLM agent workflow using LangGraph, where a Chatbot dynamically routes between tool usage (e.g., Wikipedia search, ArXiv search) and LLM calls via the Groq API, supporting a multi-step conversational flow with a defined start and end state.
 
