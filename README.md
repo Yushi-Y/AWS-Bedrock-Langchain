@@ -1,6 +1,6 @@
 # AWS-Bedrock-Langchain
 
-This repository contains LLM applications for blog generation, retrieval-augmented generation (RAG), and multi-step agent workflows using **AWS Bedrock**, **AWS Lambda**, **LangChain**, and **LangGraph**.  
+This repository contains LLM apps for blog generation, retrieval-augmented generation (RAG), and multi-step agent workflows using **AWS Bedrock**, **AWS Lambda**, **LangChain**, and **LangGraph**.  
 The projects are based on tutorials by [Krish Naik](https://www.youtube.com/@krishnaik06) and content from his Udemy course.
 
 ## Project Overview
