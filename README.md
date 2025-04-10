@@ -15,7 +15,7 @@ The projects are based on tutorials by [Krish Naik](https://www.youtube.com/@kri
 ---
 
 ### 📄 PDF Question Answering with RAG
-- Built a document QA pipeline using AWS Bedrock (Claude) and LangChain that extracts text from PDFs, chunks them, creates embeddings from Amazon Tika, and stores them in a FAISS vectorstore. Then implemented a retrieval-augmented generation (RAG) workflow where user questions trigger similarity search over vectorstore, and feed relevant context to the LLM prompts. Integrated the system with a Streamlit front-end for user interaction.
+- Built a document QA pipeline using AWS Bedrock (Claude) and LangChain that extracts text from PDFs, chunks them, creates embeddings from Amazon Tika, and stores them in a FAISS vectorstore. Then implemented a retrieval-augmented generation (RAG) workflow where the user question triggers similarity search over the vectorstore, and feed relevant context to the LLM prompts. Integrated the system with a Streamlit front-end for user interaction.
 
 <p align="center">
   <img src="pdf_rag_workflow.png" alt="PDF question-answering with RAG workflow" width="600"/>
